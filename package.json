@@ -83,5 +83,5 @@
                          "@astrojs/sitemap":  "^3.7.2",
                          "astro":  "^6.2.2"
                      },
-    "deploy_nonce": "430565cc5ceadd11"
+    "deploy_nonce": "c941c95686ff358b"
 }
