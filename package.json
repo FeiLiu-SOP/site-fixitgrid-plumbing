@@ -16,5 +16,5 @@
     "devDependencies":  {
                             "cross-env":  "^7.0.3"
                         },
-    "deploy_nonce": "44e12302f98ed329"
+    "deploy_nonce": "7085760bf1a65b20"
 }
